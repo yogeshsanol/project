@@ -1,0 +1,6 @@
+django
+pandas
+djangorestframework
+aes-cipher
+celery
+redis
